@@ -13,7 +13,7 @@ print(colored("""
    ##    ##     ## ########    ########  ######## ######## ##        #### ##    ##    ###    ########  ######     ## 
 """, "blue"))
 print(colored("""
-    Created By: @daxilox
+    Created By: @swee2ooth
 """, "red"))
  
 urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
